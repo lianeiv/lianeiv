@@ -3,7 +3,7 @@ name: Atualizar gráfico de contribuições
 on:
   schedule:
     - cron: "0 6 * * *"   
-  workflow_dispatch:      
+  workflow_dispatch:       
 
 permissions:
   contents: write
@@ -18,11 +18,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: lianeiv
-        run: python .github/scripts/contrib_graph.py
+          GRAPH_OUT: contribution-graph.svg
+        run: python contrib_graph.py
 
       - name: Commit do SVG atualizado
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/contribution-graph.svg
+          git add contribution-graph.svg
           git diff --staged --quiet || (git commit -m "chore: atualiza gráfico de contribuições" && git push)

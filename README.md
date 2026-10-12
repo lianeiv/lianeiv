@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="system online — welcome" width="760" />
+  <img src="./banner.svg" alt="Hello, World! — Júlia Neiva" width="760" />
 </p>
 
 ---
@@ -23,11 +23,11 @@ Prazer, sou Júlia Neiva, estudante de Engenharia de Software na Universidade de
 </p>
 
 <p align="justify">
- No AI Lab Makers Foundation, laboratório de IA do qual faço parte, aprendo e construo na prática, em equipe e em projetos aplicados.
+No AI Lab Makers Foundation, laboratório de IA do qual faço parte, aprendo e construo na prática, em equipe e em projetos aplicados.
 </p>
 
 <p align="justify">
- Hoje divido essa trajetória entre o desenvolvimento full stack na CJR, a pesquisa no GECHINA UnB e a liderança da Divisão de Fundamentos de IA no Meninas.comp.
+Hoje divido essa trajetória entre o desenvolvimento full stack na CJR, a pesquisa no GECHINA UnB e a liderança da Divisão de Fundamentos de IA no Meninas.comp.
 </p>
 
 ---
@@ -50,7 +50,7 @@ Prazer, sou Júlia Neiva, estudante de Engenharia de Software na Universidade de
 ### GitHub Activity
 
 <p align="center">
-  <img src="./assets/contribution-graph.svg" width="100%" alt="gráfico de contribuições" />
+  <img src="./contribution-graph.svg" width="100%" alt="gráfico de contribuições" />
 </p>
 
 <p align="center">
