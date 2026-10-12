@@ -19,7 +19,7 @@
 ### Quem sou eu?
 
 <p align="justify">
-Trabalho com dados e Inteligência Artificial, do entendimento do problema até o modelo rodando em produção. Gosto de transformar dados em decisões: explorar, modelar, validar e entregar soluções que as pessoas realmente consigam usar.
+Prazer, eu me chamo Júlia Neiva! Sou estudante de engenharia de software na Universidade de Brasilia. Trabalho com dados e Inteligência Artificial, do entendimento do problema até o modelo rodando em produção. Gosto de transformar dados em decisões: explorar, modelar, validar e entregar soluções que as pessoas realmente consigam usar.
 </p>
 
 <p align="justify">
