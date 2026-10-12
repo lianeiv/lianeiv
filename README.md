@@ -19,7 +19,15 @@
 ### Quem sou eu?
 
 <p align="justify">
-Sou Júlia, engenheira de software em formação pela Universidade de Brasília (UnB), com atuação em Inteligência Artificial, Machine Learning, Ciência de Dados e desenvolvimento de software. Trabalho como Desenvolvedora Full Stack na CJR e integro o AI Lab Makers Foundation, construindo soluções de ponta a ponta, do modelo ao deploy. Também atuo em pesquisa no GECHINA UnB e lidero a Divisão de Fundamentos de Inteligência Artificial no Meninas.comp, levando educação e acesso à tecnologia para novas gerações.
+Trabalho com dados e Inteligência Artificial, do entendimento do problema até o modelo rodando em produção. Gosto de transformar dados em decisões: explorar, modelar, validar e entregar soluções que as pessoas realmente consigam usar.
+</p>
+
+<p align="justify">
+ No AI Lab Makers Foundation, laboratório de IA do qual faço parte, aprendo e construo na prática, em equipe e em projetos aplicados.
+</p>
+
+<p align="justify">
+ Hoje divido essa trajetória entre o desenvolvimento full stack na CJR, a pesquisa no GECHINA UnB e a liderança da Divisão de Fundamentos de IA no Meninas.comp.
 </p>
 
 ---
@@ -42,7 +50,7 @@ Sou Júlia, engenheira de software em formação pela Universidade de Brasília 
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lianeiv&bg_color=0d1117&color=DA70D6&line=E8A0C8&point=FFFFFF&area=true&area_color=B83E86&hide_border=true&title_color=DA70D6" width="100%" alt="contribution graph" />
+  <img src="./assets/contribution-graph.svg" width="100%" alt="gráfico de contribuições" />
 </p>
 
 <p align="center">
@@ -56,7 +64,9 @@ Sou Júlia, engenheira de software em formação pela Universidade de Brasília 
 
 ---
 
-<h3 align="center">vamos construir algo juntos.</h3>
+<h3 align="center">vamos trabalhar juntos?</h3>
+
+<p align="center"><sub>Se você tem um problema de dados ou IA para resolver, me chama.</sub></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/julianeiv/"><img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
