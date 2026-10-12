@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Olá, eu sou a Julia! </h1>
-  <p align="center"><b>Graduanda em Engenharia de Software | Apaixonada por Dados e Ballet</b></p>
+  <p align="center"><b>Graduanda em Engenharia de Software | Apaixonada por Dadost/b></p>
 </p>
 
 ---
@@ -16,15 +16,15 @@
 ### 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-8A2BE2?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-9932CC?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-C71585?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-DA70D6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-BA55D3?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-8B008B?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-C71585?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-9932CC?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-8A2BE2?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-9932CC?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-C71585?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-DA70D6?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-9932CC?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-DA70D6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-BA55D3?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-8B008B?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
