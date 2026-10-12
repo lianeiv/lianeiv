@@ -15,10 +15,7 @@
 
 ### 🚀 Who am I
 
-- 🔭 Atualmente integro o **Hub Conectadas** e atuo no **AI Lab**.
-- 🌱 Fui selecionada como **Embaixadora Estudantil do Google 2026** e pesquiso no **GeeChina**.
-- 👯 Procuro parcerias em projetos de **Inteligência Artificial e Engenharia de Dados**.
-
+Sou estudante de Engenharia de Software na Universidade de Brasília (UnB), com interesse e atuação nas áreas de Inteligência Artificial, Machine Learning e Ciência de dados.
 ---
 
 ### 💻 Tech Stack & Tools
