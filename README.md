@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=DA70D6&center=true&vCenter=true&width=430&lines=system+online+--welcome--;Hello+World!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Juliane | lianeiv</h1>
+<h1 align="center">Julia | lianeiv</h1>
 <p align="center"><b>Software Engineering Student | Data & AI Enthusiast</b></p>
 
 ---
