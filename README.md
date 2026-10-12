@@ -66,7 +66,7 @@ Hoje divido essa trajetória entre o desenvolvimento full stack na CJR, a pesqui
 
 <h3 align="center">vamos trabalhar juntos?</h3>
 
-<p align="center"><sub>Se você tem um problema de dados ou IA para resolver, me chama.</sub></p>
+<p align="center"><sub></sub></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/julianeiv/"><img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
