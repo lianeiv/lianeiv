@@ -4,6 +4,14 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://linkedin.com/in/julianeiv/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:julianeiv4@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ### 🚀 Who am I
 
